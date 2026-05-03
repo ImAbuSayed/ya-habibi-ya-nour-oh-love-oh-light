@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ya Habibi Ya Nour – Oh Love, Oh Light |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-habibi-ya-nour-oh-love-oh-light/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي يا نور عيني في كل ليلة
+> نار جسدي تناديكِ في كل حيلة
+> قلبي يذوب في عطركِ مع كل نبضة
+> أريد لمسكِ دعيني أطفي هذي الشعلة
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
