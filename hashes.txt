@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Habibi Ya Nour – Oh Love, Oh Light
+
+This log tracks the cryptographic history and versioning for the song **Ya Habibi Ya Nour – Oh Love, Oh Light** (ya-habibi-ya-nour-oh-love-oh-light).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:13:04.595472 | `v1` | `3c266fc3c6361002b0242febc86adc8be90ff2475623b644cb5e5156b877a885` | `c645a3b0c59243c014f9d4d8706d2c14ee430a5c2830fffd865510f15508b62e` | `2026-05-09_ya-habibi-ya-nour-oh-love-oh-light-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
